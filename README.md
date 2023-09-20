@@ -25,7 +25,10 @@
 </div><br/>
 
 ## Formação
+<a href="https://www.dio.me/certificate/5600F37A/share" target="_blank">
 <img align="center" alt="reactDeveloper" src="https://hermes.dio.me/tracks/68c81887-a1c2-440d-a7ea-7777bc10cd41.png" width="200" />
+</a>
+
 
 ## Contato
 <div>
