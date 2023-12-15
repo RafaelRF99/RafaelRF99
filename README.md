@@ -15,11 +15,11 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-007ACC?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img align="center" alt="nextjs" src="https://img.shields.io/badge/NextJS-fff?style=for-the-badge&logo=next.js&logoColor=black" />
+  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-bc131f?style=for-the-badge&logo=angular&logoColor=fff" />
 </div><br/>
 
 ## Estudando
 <div style="display: inline_block">
-  <img align="center" alt="redux" src="https://img.shields.io/badge/Redux-fff?style=for-the-badge&logo=redux&logoColor=871C81" />
   <img align="center" alt="nestjs" src="https://img.shields.io/badge/NestJS-fff?style=for-the-badge&logo=nestjs&logoColor=ff0000" />
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div><br/>
